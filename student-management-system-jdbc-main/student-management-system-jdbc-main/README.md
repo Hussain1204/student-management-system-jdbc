@@ -65,7 +65,7 @@ CREATE TABLE students (
 ---
 
 1. Clone the repo
-git clone https://github.com/armankadri121/student-management-system-jdbc.git
+git clone https://github.com/Hussain1204/student-management-system-jdbc.git
 cd student-management-jdbc
 
 2. Setup MySQL DB
